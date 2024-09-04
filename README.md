@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**pedro10032009/pedro10032009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Henrique
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning alura...
-- 👯 I’m looking to collaborate on javascript...
-- 🤔 I’m looking for help with minha inteligencia...
-- 💬 Ask me about ...
-- 📫 How to reach me: pedro10032009 ...
-- 😄 Pronouns: ele/dele...
-- ⚡ Fun fact:só estudo, como e durmo ...
--->
+### Você pode entrar em contato comigo : 
+
+00001117563042sp@al.educacao.sp.gov.br
+
+@pedro__1003
+
+![descrição do GIF](link GIF do Tenor)
